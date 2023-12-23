@@ -1,4 +1,4 @@
-# Pop-Corn
+# Movies-App
 
 ## Technologies
 
